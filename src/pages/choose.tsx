@@ -76,11 +76,11 @@ export default function Choose() {
           </div>
 
           <div className="reward-desc">
-            <h2>New Apple iPhone 14 Pro (512GB, Pacific Blue) Unlocked.</h2>
+            <h2>New Apple iPhone 15 Pro (512GB, Pacific Blue) Unlocked.</h2>
             <br />
             <ul>
               <li>
-                iPhone 14 and iPhone 14 Plus are splash, water, and dust
+                iPhone 15 and iPhone 15 Plus are splash, water, and dust
                 resistant and were tested under controlled laboratory conditions
                 with a rating of IP68 under IEC standard 60529 (maximum depth of
                 6 meters up to 30 minutes). Splash, water, and dust resistance
@@ -106,11 +106,11 @@ export default function Choose() {
                 design, and these corners are within a standard rectangle. When
                 measured as a standard rectangular shape, the screen is 5.42
                 inches (iPhone 13 mini, iPhone 12 mini), 5.85 inches (iPhone 11
-                Pro, iPhone XS, iPhone X), 6.06 inches (iPhone 14, iPhone 13
+                Pro, iPhone XS, iPhone X), 6.06 inches (iPhone 15, iPhone 13
                 Pro, iPhone 13, iPhone 12 Pro, iPhone 12, iPhone 11, iPhone XR),
-                6.12 inches (iPhone 14 Pro), 6.46 inches (iPhone 11 Pro Max,
-                iPhone XS Max), 6.68 inches (iPhone 14 Plus, iPhone 13 Pro Max,
-                iPhone 12 Pro Max), or 6.69 inches (iPhone 14 Pro Max)
+                6.12 inches (iPhone 15 Pro), 6.46 inches (iPhone 11 Pro Max,
+                iPhone XS Max), 6.68 inches (iPhone 15 Plus, iPhone 13 Pro Max,
+                iPhone 12 Pro Max), or 6.69 inches (iPhone 15 Pro Max)
                 diagonally. Actual viewable area is less.
               </li>
             </ul>
@@ -133,7 +133,7 @@ export default function Choose() {
             <p>Pay only for shipping</p>
 
             <div className="link">
-                <Link to={"/claim/iphone"} target="_blank">Claim Reward Now</Link>
+                <Link to={"/claim/iphone"}>Claim Reward Now</Link>
               
             </div>
           </div>

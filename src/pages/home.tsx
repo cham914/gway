@@ -188,15 +188,15 @@ export default function Home() {
         <li className="crumbs_i">
           <a href="https://www.babtech.com/category/general/" rel="category tag">News</a>
         </li>
-        <li className="crumbs_i">The 28th Weekly iPhone 14 pro max and other Apple products Giveaway</li>
+        <li className="crumbs_i">The 28th Weekly iPhone 15 pro max and other Apple products Giveaway</li>
       </ul>
       <h2 className="entry-title padding--04 flipboard-title">
-        The 28th Weekly iPhone 14 Pro Max and other Apple products Giveaway
+        The 28th Weekly iPhone 15 Pro Max and other Apple products Giveaway
       </h2>
 
       <div className="entry-meta padding--04 margin--16auto">
         <a href="#" title="Posts by BabTech Staff" rel="author">Apple Inc. Staff</a>
-        - January 10, 2023
+        - January 10, 2024
       </div>
 
       <div className="product-images">

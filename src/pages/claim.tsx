@@ -8,7 +8,7 @@ export default function Claim() {
 
   useEffect(() => {
     if (claim_item === "iphone") {
-      setProduct("iPhone 14 Pro Max");
+      setProduct("iPhone 15 Pro Max");
       setImageUrl("../images/iphone.jfif");
     } else if (claim_item === "mac") {
       setProduct("Mac Book");
